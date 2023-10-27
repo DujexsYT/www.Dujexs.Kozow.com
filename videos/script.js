@@ -18,7 +18,7 @@ let data = [
     {
         'id': 'a3',
         'title': 'Distribuidor OmegaZone Roleplay',
-        'name': 'https://dujexs.000webhostapp.com/Distribuidor.mp4',
+        'name': 'dujexs.000webhostapp.com/Distribuidor.mp4',
         'duration': '24:09',
     },
 
