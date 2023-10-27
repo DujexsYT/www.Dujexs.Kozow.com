@@ -18,7 +18,7 @@ let data = [
     {
         'id': 'a3',
         'title': 'Proximamente 1',
-        'name': 'Proximamente.mp4',
+        'name': 'video3.html',
         'duration': '24:49',
     },
 
