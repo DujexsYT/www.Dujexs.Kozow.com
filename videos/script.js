@@ -14,7 +14,7 @@ let data = [
     {
         'id': 'a1',
         'title': 'Bomberos Dixel Roleplay',
-        'name': 'https://dujexs.kozow.com/videos/videos/https://dujexs.webredirect.org/1v1_west.mp4',
+        'name': 'wss.mp4',
         'duration': '2:47',
     },
     {
@@ -99,7 +99,7 @@ videos.forEach(selected_video => {
         selected_video.querySelector('img').src = 'images/pause.svg';
 
         let match_video = data.find(video => video.id == selected_video.dataset.id);
-        main_video.src = 'videos/' + match_video.name;
+        main_video.src = 'https://dujexsyt.github.io/Videos-DujexsPlays/videos/' + match_video.name;
         main_video_title.innerHTML = match_video.title;
     }
 });
