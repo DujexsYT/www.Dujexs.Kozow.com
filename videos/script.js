@@ -13,8 +13,8 @@ const video_playlist = document.querySelector('.video-playlist .videos');
 let data = [
     {
         'id': 'a1',
-        'title': 'manipulate text background',
-        'name': 'https://dujexs.webredirect.org/1v1_west.mp4',
+        'title': 'Bomberos Dixel Roleplay',
+        'name': 'https://dujexs.kozow.com/videos/videos/https://dujexs.webredirect.org/1v1_west.mp4',
         'duration': '2:47',
     },
     {
