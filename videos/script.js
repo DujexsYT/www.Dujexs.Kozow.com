@@ -1,11 +1,3 @@
-/*
-🎬 Video playlist UI Design like Skillshare With Vanilla JavaScript
-👨🏻‍⚕️ By: Coding Design
-
-You can do whatever you want with the code. However if you love my content, you can subscribed my YouTube Channel
-🌎link: www.youtube.com/codingdesign
-*/
-
 const main_video = document.querySelector('.main-video video');
 const main_video_title = document.querySelector('.main-video .title');
 const video_playlist = document.querySelector('.video-playlist .videos');
@@ -99,7 +91,7 @@ videos.forEach(selected_video => {
         selected_video.querySelector('img').src = 'images/pause.svg';
 
         let match_video = data.find(video => video.id == selected_video.dataset.id);
-        main_video.src = 'https://dujexsyt.github.io/Videos-DujexsPlays/videos/' + match_video.name;
+        main_video.src = 'sources/' + match_video.name;
         main_video_title.innerHTML = match_video.title;
     }
 });
