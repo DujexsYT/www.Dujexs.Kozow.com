@@ -14,7 +14,7 @@ let data = [
     {
         'id': 'a1',
         'title': 'manipulate text background',
-        'name': 'manipulate text background.mp4',
+        'name': 'https://dujexs.webredirect.org/1v1_west.mp4',
         'duration': '2:47',
     },
     {
