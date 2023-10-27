@@ -99,7 +99,7 @@ videos.forEach(selected_video => {
         selected_video.querySelector('img').src = 'images/pause.svg';
 
         let match_video = data.find(video => video.id == selected_video.dataset.id);
-        main_video.src = 'https://dujexsyt.github.io/Videos-DujexsPlays/videos/' + match_video.name;
+        main_video.src = 'sources/' + match_video.name;
         main_video_title.innerHTML = match_video.title;
     }
 });
