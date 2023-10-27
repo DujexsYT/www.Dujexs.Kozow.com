@@ -12,7 +12,7 @@ let data = [
     {
         'id': 'a2',
         'title': 'Analisis Semanal OmegaZone Roleplay N1',
-        'name': 'video.html',
+        'name': 'dujexsplaysx.000webhostapp.com/wss.mp4',
         'duration': '3:16',
     },
     {
