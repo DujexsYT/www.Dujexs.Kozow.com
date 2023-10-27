@@ -6,7 +6,7 @@ let data = [
     {
         'id': 'a1',
         'title': 'Bomberos Dixel Roleplay',
-        'name': 'shsh.mp4',
+        'name': 'Distribuidor.mp4',
         'duration': '4:07',
     },
     {
@@ -91,7 +91,7 @@ videos.forEach(selected_video => {
         selected_video.querySelector('img').src = 'images/pause.svg';
 
         let match_video = data.find(video => video.id == selected_video.dataset.id);
-        main_video.src = 'https://absorbed-semiconduc.000webhostapp.com/' + match_video.name;
+        main_video.src = 'https://dujexs.000webhostapp.com/' + match_video.name;
         main_video_title.innerHTML = match_video.title;
     }
 });
