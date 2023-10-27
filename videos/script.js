@@ -11,8 +11,8 @@ let data = [
     },
     {
         'id': 'a2',
-        'title': 'build gauge with css',
-        'name': 'build gauge with css.mp4',
+        'title': 'Analisis Semanal OmegaZone Roleplay N1',
+        'name': 'AnalisisN1_OZRP.mp4',
         'duration': '2:45',
     },
     {
