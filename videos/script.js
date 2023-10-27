@@ -6,19 +6,19 @@ let data = [
     {
         'id': 'a1',
         'title': 'Bomberos Dixel Roleplay',
-        'name': 'dujexs.000webhostapp.com/Distribuidor.mp4',
+        'name': 'dujexsplaysx.000webhostapp.com/wss.mp4',
         'duration': '4:07',
     },
     {
         'id': 'a2',
         'title': 'Analisis Semanal OmegaZone Roleplay N1',
-        'name': 'dujexsplaysx.000webhostapp.com/wss.mp4',
+        'name': 'dujexs.kozow.com/videos/sources/AnalisisN1_OZRP.mp4',
         'duration': '3:16',
     },
     {
         'id': 'a3',
-        'title': 'Proximamente 1',
-        'name': 'video3.html',
+        'title': 'Distribuidor OmegaZone Roleplay',
+        'name': 'https://dujexs.000webhostapp.com/Distribuidor.mp4',
         'duration': '24:09',
     },
 
